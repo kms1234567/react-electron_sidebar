@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  overflow: hidden;
+}
+
+.Collapse {
+  text-align: left;
+  height: 100vh;
+  border-right: 1px solid #f2cfcf;
+  width: 230px;
+}
+
+
